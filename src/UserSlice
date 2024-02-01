@@ -1,0 +1,12 @@
+import {createSlice} from '@reactjs/toolkit';
+Initial:{
+    state:"";
+}
+const UserSlice=createSlice({
+    name:"user",
+    reducers:{
+        Details:(state,action)=>{
+
+        }
+    }
+})
